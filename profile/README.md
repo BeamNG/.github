@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BeamNG/.github/blob/main/images/Drive-Logo.png" height="100" style="border-radius: 12px;"/>
+  <img src="https://github.com/BeamNG/.github/blob/main/images/GMBH-Logo.png" height="100" style="border-radius: 12px;"/>
 </p>
 
 # Welcome to BeamNG
