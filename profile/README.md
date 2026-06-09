@@ -20,26 +20,73 @@ Here you will find public tools, documentation, examples, and integrations relat
 
 ### Featured Repositories
 
-<div align="center">
-  <a href="https://github.com/BeamNG/BeamNGpy" style="display: inline-block !important; margin-right: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beamng&repo=BeamNGpy" style="display: inline-block !important; margin-right: 8px;" />
-  </a>
-  <a href="https://github.com/BeamNG/i18n" style="display: inline-block !important; margin-right: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamNG&repo=i18n" style="display: inline-block !important; margin-right: 8px;" />
-  </a>
-  <a href="https://github.com/BeamNG/beamng-ros2-integration" style="display: inline-block !important; margin-right: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamNG&repo=beamng-ros2-integration" style="display: inline-block !important; margin-right: 8px;" />
-  </a>
-  <a href="https://github.com/BeamNG/BeamNG-MATLAB-Simulink-integration" style="display: inline-block !important; margin-right: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamNG&repo=BeamNG-MATLAB-Simulink-integration" style="display: inline-block !important; margin-right: 8px;" />
-  </a>
-  <a href="https://github.com/BeamNG/Blender-JBeam-Editor" style="display: inline-block !important; margin-right: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamNG&repo=Blender-JBeam-Editor" style="display: inline-block !important; margin-right: 8px;" />
-  </a>
-  <a href="https://github.com/BeamNG/vscode-jbeam-editor" style="display: inline-block !important; margin-right: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BeamNG&repo=vscode-jbeam-editor" style="display: inline-block !important; margin-right: 8px;" />
-  </a>
-</div>
+Our most-used public projects for simulation, integration, localization, and modding.
+
+<table width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <h3>Core APIs and integrations</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/BeamNG/BeamNGpy"><b>BeamNGpy</b></a><br/>
+        Python API for BeamNG.tech<br/>
+        <sub>🟢 Active · <code>Python</code></sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/BeamNG/i18n"><b>i18n</b></a><br/>
+        Internationalization project to translate BeamNG.drive<br/>
+        <sub>🟢 Active · <code>Localization</code></sub>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/BeamNG/beamng-ros2-integration"><b>beamng-ros2-integration</b></a><br/>
+        ROS 2 integration for BeamNG.tech<br/>
+        <sub>🟢 Active · <code>ROS 2</code></sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/BeamNG/BeamNG-MATLAB-Simulink-integration"><b>BeamNG-MATLAB-Simulink-integration</b></a><br/>
+        Connects MATLAB and Simulink to BeamNG.tech<br/>
+        <sub>🟠 Maintained · <code>MATLAB</code></sub>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <h3>Tools and editor extensions</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/BeamNG/Blender-JBeam-Editor"><b>Blender-JBeam-Editor</b></a><br/>
+        Blender plugin to import, modify, and export JBeam<br/>
+        <sub>🟠 Maintained · <code>Blender</code></sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/BeamNG/vscode-jbeam-editor"><b>vscode-jbeam-editor</b></a><br/>
+        Visual Studio Code extension to edit JBeam files<br/>
+        <sub>🟠 Maintained · <code>VS Code</code></sub>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>See <a href="#all-repositories">All Repositories</a> below for the full list.</sub></p>
+
+<a id="all-repositories"></a>
 
 ### All Repositories
 
