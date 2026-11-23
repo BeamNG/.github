@@ -24,19 +24,19 @@ Our most-used public projects for simulation, integration, localization, and mod
 
 <table width="100%">
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="6" align="center">
       <h3>Core APIs and integrations</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="3" valign="top">
       <p>
         <a href="https://github.com/BeamNG/BeamNGpy"><b>BeamNGpy</b></a><br/>
         Python API for BeamNG.tech<br/>
         <sub>🟢 Active · <code>Python</code></sub>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td colspan="3" valign="top">
       <p>
         <a href="https://github.com/BeamNG/i18n"><b>i18n</b></a><br/>
         Internationalization project to translate BeamNG.drive<br/>
@@ -45,14 +45,21 @@ Our most-used public projects for simulation, integration, localization, and mod
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" width="33%" valign="top">
+      <p>
+        <a href="https://github.com/BeamNG/BNGLink"><b>BNGLink</b></a><br/>
+        Realtime link between BeamNG.tech and 3D software<br/>
+        <sub>🟢 Active · <code>Cinema & VFX</code></sub>
+      </p>
+    </td>
+    <td colspan="2" valign="top">
       <p>
         <a href="https://github.com/BeamNG/beamng-ros2-integration"><b>beamng-ros2-integration</b></a><br/>
         ROS 2 integration for BeamNG.tech<br/>
         <sub>🟢 Active · <code>ROS 2</code></sub>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <p>
         <a href="https://github.com/BeamNG/BeamNG-MATLAB-Simulink-integration"><b>BeamNG-MATLAB-Simulink-integration</b></a><br/>
         Connects MATLAB and Simulink to BeamNG.tech<br/>
@@ -61,20 +68,20 @@ Our most-used public projects for simulation, integration, localization, and mod
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="6" align="center">
       <br/>
       <h3>Tools and editor extensions</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="3" valign="top">
       <p>
         <a href="https://github.com/BeamNG/Blender-JBeam-Editor"><b>Blender-JBeam-Editor</b></a><br/>
         Blender plugin to import, modify, and export JBeam<br/>
         <sub>🟠 Maintained · <code>Blender</code></sub>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td colspan="3" valign="top">
       <p>
         <a href="https://github.com/BeamNG/vscode-jbeam-editor"><b>vscode-jbeam-editor</b></a><br/>
         Visual Studio Code extension to edit JBeam files<br/>
@@ -102,6 +109,7 @@ Our most-used public projects for simulation, integration, localization, and mod
 | :--- | :--- | :--- |
 | [BeamNGpy](https://github.com/BeamNG/BeamNGpy) | Python API for BeamNG.tech | 🟢&nbsp;Active |
 | [i18n](https://github.com/BeamNG/i18n) | Internationalization project to translate BeamNG.drive | 🟢&nbsp;Active |
+| [BNGLink](https://github.com/BeamNG/BNGLink) | Realtime link between BeamNG.tech and 3D software | 🟢&nbsp;Active |
 | [beamng-ros2-integration](https://github.com/BeamNG/beamng-ros2-integration) | ROS 2 integration for BeamNG.tech | 🟢&nbsp;Active |
 | [beamng-ros-integration](https://github.com/BeamNG/beamng-ros-integration) | Legacy ROS integration, superseded by the ROS 2 integration | 🔴&nbsp;Archived |
 | [BeamNG-MATLAB-Simulink-integration](https://github.com/BeamNG/BeamNG-MATLAB-Simulink-integration) | Connects MATLAB and Simulink to BeamNG.tech | 🟠&nbsp;Maintained |
